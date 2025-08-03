@@ -2,7 +2,7 @@
 
 **Tools:** Python  
 **Visualizations:** Seaborn, Matplotlib, Folium  
-**Dataset:** Proprietary rental listing dataset (~10K rows)
+**Dataset:** [Apartment for Rent Classified Data Set – UCI ML Repository](https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified)
 
 ---
 
